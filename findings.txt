@@ -1,4 +1,7 @@
-These are some of my finds, with a Sony IMX 298 sensor. Those cameras are chep on AliExpress, I paid around 20 USD for one. Keep in mind that the values might not work on your camera. Also, this is work in progress, some might be wrong, etc. Changing some settings require restarting the stream. if you find new things, please let me know (open an issue), or e-mail me at radu.prv at gmail.
+These are some of my finds, with a Sony IMX 298 sensor. Those cameras are chep on AliExpress, I paid around 20 USD for one. Keep in mind that the values might not work on your camera. 
+Also, this is work in progress, some might be wrong, etc. Changing some settings require restarting the stream. If you find new things, please let me know (open an issue), or e-mail me at radu.prv at gmail.
+Most of those settings work only in the manual exposure mode.
+
 resolutions offset:
 0xd1a-d = 4656x3496
 
